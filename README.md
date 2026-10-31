@@ -12,8 +12,6 @@
 
 Complete small tasks, care for your creatures, and make a quiet corner of the ocean your own.
 
-**[Explore the official Cozy Aquarium website](https://orpheane.github.io/cozy-aquarium/)**
-
 <br>
 
 ![Coming soon to Chrome](https://img.shields.io/badge/CHROME-COMING%20SOON-467f7a?style=for-the-badge&logo=googlechrome&logoColor=white)
