@@ -11,3 +11,12 @@
 !/assets/shop.png
 !/assets/mini-games.png
 !/assets/logo.png
+
+# Reviewed static showcase and discovery files
+!/.nojekyll
+!/index.html
+!/styles.css
+!/llms.txt
+!/sitemap.xml
+!/SEARCH-VISIBILITY.md
+!/498f3bec15364ebf8cfe6ddd16325796.txt

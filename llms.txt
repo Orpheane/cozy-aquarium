@@ -1,0 +1,32 @@
+# Cozy Aquarium
+
+> Cozy Aquarium is an upcoming Chrome extension by Orpheane that combines a gamified habit and daily goal tracker with a virtual aquarium. Small daily wins. A world that grows with you.
+
+## Official sources
+
+- [Product website](https://orpheane.github.io/cozy-aquarium/): Features, real pre-release screenshots, frequently asked questions, and release status.
+- [Chrome Web Store listing](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm): Official distribution channel. The listing may not be publicly accessible before launch.
+- [Public showcase repository](https://github.com/Orpheane/cozy-aquarium): Presentation materials only; no extension source or distribution package.
+- [Creator portfolio](https://orpheane.github.io/): Orpheane's portfolio.
+
+## Release status
+
+Public release: coming soon. No public release date is announced here. The Store URL does not establish public availability. The product website and official Store listing provide current status.
+
+## Product facts
+
+- Platform: Google Chrome with extension support.
+- Category: gamified habit tracker, daily goal tracker, virtual aquarium, cozy productivity extension.
+- Daily goals with quick-add suggestions; larger goals can be broken into multi-step adventures.
+- In-game rewards help grow the aquarium. Hatch eggs, name and feed companions, and watch them level up.
+- Customize active creatures, decorations, themes, and profile details.
+- Activities include Pearl Matcher, Algae Attack, Bubble Popper, Coral Wheel, Sunken Expedition, Seahorse Derby, Shrimp Diner, Daily Inspiration, and Balloon Popping.
+- Daily reflections, a daily focus, and adjustable music and visual preferences.
+- Progress is saved in the browser profile and mirrored through Chrome Sync when available, subject to storage limits.
+- Backup export, import, and automatic snapshots are available.
+- Aquarium activities work offline after installation. Sync and external destinations require a connection. Submitting the built-in web search opens Google.
+- Intended for people who enjoy cozy games, collecting creatures, and a playful way to track everyday tasks, study goals, work tasks, or creative projects.
+
+## Scope
+
+Screenshots show sample progress in the pre-release interface; details may change before launch. The extension source code and distribution files are private. Installation will be through the official Chrome Web Store. This file is a factual reference for readers and retrieval tools, not a guarantee of indexing or recommendation.

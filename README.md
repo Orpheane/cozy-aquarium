@@ -1,5 +1,7 @@
 <div align="center">
 
+# Cozy Aquarium — Gamified Habit Tracker & Virtual Aquarium for Chrome
+
 <img src="assets/hero.png" alt="Cozy Aquarium — small daily wins, a world that grows with you. A preview of the underwater sanctuary and its sea creatures. Coming soon to Chrome." width="100%">
 
 <br><br>
@@ -9,6 +11,8 @@
 **Turn everyday goals into a living ocean sanctuary.**
 
 Complete small tasks, care for your creatures, and make a quiet corner of the ocean your own.
+
+**[Explore the official Cozy Aquarium website](https://orpheane.github.io/cozy-aquarium/)**
 
 <br>
 

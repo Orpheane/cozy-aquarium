@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://orpheane.github.io/cozy-aquarium/</loc><lastmod>2026-10-31</lastmod>
+    <image:image><image:loc>https://orpheane.github.io/cozy-aquarium/assets/hero.png</image:loc></image:image>
+    <image:image><image:loc>https://orpheane.github.io/cozy-aquarium/assets/aquarium.png</image:loc></image:image>
+    <image:image><image:loc>https://orpheane.github.io/cozy-aquarium/assets/daily-goals.png</image:loc></image:image>
+    <image:image><image:loc>https://orpheane.github.io/cozy-aquarium/assets/creatures.png</image:loc></image:image>
+    <image:image><image:loc>https://orpheane.github.io/cozy-aquarium/assets/shop.png</image:loc></image:image>
+    <image:image><image:loc>https://orpheane.github.io/cozy-aquarium/assets/mini-games.png</image:loc></image:image>
+  </url>
+</urlset>
