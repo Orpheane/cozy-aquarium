@@ -1,0 +1,13 @@
+# Only the reviewed showcase documents and flattened images belong here.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/hero.png
+!/assets/aquarium.png
+!/assets/daily-goals.png
+!/assets/creatures.png
+!/assets/shop.png
+!/assets/mini-games.png
+!/assets/logo.png
