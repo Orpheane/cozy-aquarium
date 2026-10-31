@@ -2,6 +2,14 @@
 
 Canonical product page: https://orpheane.github.io/cozy-aquarium/
 
+## Deployment and submission status — 31 October 2026
+
+- GitHub Pages is live. The canonical page, stylesheet, sitemap, and `llms.txt` returned HTTP 200.
+- The controlling host-root `robots.txt` permits crawling and declares the product sitemap. The portfolio sitemap includes the product URL, and the portfolio's Cozy Aquarium entry links to it.
+- The IndexNow verification file is publicly accessible and matches the submitted key. IndexNow returned **HTTP 202**: URL received, key validation pending. This is not confirmation that the page is indexed.
+- Local browser checks passed at 1440, 390, and 320 pixels, including HTML access without application JavaScript, image decoding, internal links, and exact FAQ/schema agreement. The mobile layout has no horizontal overflow.
+- Authenticated Google Search Console and Bing Webmaster Tools submissions have **not** been performed. No accessible dashboard session was available. Follow the steps below to submit the sitemap and inspect actual indexing.
+
 ## Implemented
 
 - Static English HTML, available without application JavaScript, with descriptive headings, real screenshots, and an accessible mobile layout.
