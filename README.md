@@ -2,7 +2,7 @@
 
 # Cozy Aquarium — Gamified Habit Tracker & Virtual Aquarium for Chrome
 
-<img src="assets/hero.png" alt="Cozy Aquarium — small daily wins, a world that grows with you. A preview of the underwater sanctuary and its sea creatures. Coming soon to Chrome." width="100%">
+<img src="assets/hero.png" alt="Cozy Aquarium — small daily wins, a world that grows with you. A preview of the underwater sanctuary and its sea creatures. Available on Chrome." width="100%">
 
 <br><br>
 
@@ -14,7 +14,7 @@ Complete small tasks, care for your creatures, and make a quiet corner of the oc
 
 <br>
 
-![Coming soon to Chrome](https://img.shields.io/badge/CHROME-COMING%20SOON-467f7a?style=for-the-badge&logo=googlechrome&logoColor=white)
+[![Available on Chrome](https://img.shields.io/badge/CHROME-AVAILABLE%20NOW-467f7a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm)
 
 <br>
 
@@ -97,7 +97,7 @@ Cozy Aquarium saves progress in your browser profile. In Chrome, progress is als
 
 **Backup export and import** let you keep a separate copy of your progress. The aquarium also includes automatic backup snapshots and can run offline after installation; syncing and opening external links require a connection.
 
-Submitting a query through the aquarium's web search opens Google. For the published extension's privacy information and permission disclosures, refer to its official Chrome Web Store listing when it becomes publicly available.
+Submitting a query through the aquarium's web search opens Google. For the extension's privacy information and permission disclosures, see its [official Chrome Web Store listing](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm).
 
 ---
 
@@ -106,7 +106,7 @@ Submitting a query through the aquarium's web search opens Google. For the publi
 <details>
 <summary><strong>Can I install Cozy Aquarium now?</strong></summary>
 
-The public release is coming soon. The Chrome Web Store listing may not be accessible to everyone yet. This repository will point to the official listing; it does not provide an extension download.
+Yes! Cozy Aquarium is available on the [Chrome Web Store](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm). This repository showcases the extension and does not provide a separate installation download.
 
 </details>
 
@@ -134,7 +134,7 @@ The aquarium and its bundled activities can run offline after installation. Chro
 <details>
 <summary><strong>Are these screenshots from the real extension?</strong></summary>
 
-Yes. They show the current pre-release interface with sample creatures, goals, and progress. The opening banner frames a real interface capture. Details may change before the public release.
+Yes. They show the extension interface with sample creatures, goals, and progress. The opening banner frames a real interface capture. Features and visuals may evolve with future updates.
 
 </details>
 
@@ -149,17 +149,15 @@ This is a public product showcase. The extension's source code and distribution 
 
 <div align="center">
 
-### Your little ocean is on its way.
+### Your little ocean is ready.
 
 **Small daily wins. A world that grows with you.**
 
 <br>
 
-**Coming soon to Chrome.**
+**Available now on Chrome.**
 
-[Official Chrome Web Store listing](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm)
-
-<sub>The listing may remain unavailable until the public launch.</sub>
+[Install Cozy Aquarium on Chrome](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm)
 
 <br><br>
 
