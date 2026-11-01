@@ -2,7 +2,7 @@
 
 # Cozy Aquarium — Gamified Habit Tracker & Virtual Aquarium for Chrome
 
-<img src="assets/hero.png" alt="Cozy Aquarium — small daily wins, a world that grows with you. A preview of the underwater sanctuary and its sea creatures. Available on Chrome." width="100%">
+<img src="assets/hero-available.svg" alt="Cozy Aquarium — small daily wins, a world that grows with you. A preview of the underwater sanctuary and its sea creatures. Available on Chrome." width="100%">
 
 <br><br>
 
